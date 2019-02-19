@@ -7,11 +7,11 @@
 </h4>
 
 ## Table of contents
-+ [Quick Start](http://github.com/alxshelepenok/gatsby-starter-lumen#quick-start)
-+ [Folder Structure](http://github.com/alxshelepenok/gatsby-starter-lumen#folder-structure)
-+ [Reference](http://github.com/alxshelepenok/gatsby-starter-lumen#sponsors)
-+ [Credits](http://github.com/alxshelepenok/gatsby-starter-lumen#credits)
-+ [License](http://github.com/alxshelepenok/gatsby-starter-lumen#license)
++ [Quick Start](http://github.com/rodrigo-dev/rodrigostavares#quick-start)
++ [Folder Structure](http://github.com/rodrigo-dev/rodrigostavares#folder-structure)
++ [Reference](http://github.com/rodrigo-dev/rodrigostavares#sponsors)
++ [Credits](http://github.com/rodrigo-dev/rodrigostavares#credits)
++ [License](http://github.com/rodrigo-dev/rodrigostavares#license)
 
 
 ## Quick Start
@@ -22,7 +22,7 @@ Use the Gatsby CLI to create a new site, specifying the Lumen starter.
 
 ```sh
 # Create a new Gatsby site using the Lumen starter
-gatsby new blog https://github.com/alxshelepenok/gatsby-starter-lumen
+gatsby new blog https://github.com/rodrigo-dev/rodrigostavares
 ```
 
 #### Start Developing
@@ -97,7 +97,7 @@ $ npm run serve
 
 ## Reference
 
-https://github.com/alxshelepenok/gatsby-starter-lumen
+https://github.com/rodrigo-dev/rodrigostavares
 
 
 ## Credits

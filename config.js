@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://rodrigostavares.netlify.com/',
   title: 'Blog by Rodrigo Tavares',
   subtitle: '.',
-  copyright: '© All rights reserved.',
+  copyright: 'Rodrigo Tavares © All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
   menu: [
@@ -26,10 +26,10 @@ module.exports = {
     photo: '/photo.jpg',
     bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
     contacts: {
-      email: '#',
-      twitter: '#',
-      github: '#',
-      linkedin: '#',
+      email: 'tavares.rodrigo96@gmail.com',
+      twitter: 'cubanajarra',
+      github: 'rodrigo-dev',
+      linkedin: 'rodrigostavares',
     }
   }
 };
