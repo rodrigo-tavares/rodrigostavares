@@ -2,9 +2,9 @@
 
 module.exports = {
   url: 'https://rodrigostavares.netlify.com/',
-  title: 'Blog by Rodrigo Tavares',
+  title: 'Rodrigo Tavares - Software Engineer',
   subtitle: '.',
-  copyright: 'Rodrigo Tavares © All rights reserved.',
+  copyright: `Rodrigo Tavares © 1996 - ${new Date().getFullYear()}`,
   disqusShortname: '',
   postsPerPage: 4,
   menu: [
